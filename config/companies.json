@@ -1,0 +1,5 @@
+{ "_note": "ats = greenhouse | lever | ashby. token = name in the job-board URL. verified=true means the URL was seen in a search result; others are guesses that show a red cross on the dashboard if wrong.",
+  "companies": [
+    { "name": "Sprinto", "ats": "lever", "token": "Sprinto", "verified": true },
+    { "name": "Readdle", "ats": "greenhouse", "token": "readdle", "verified": false }
+  ] }

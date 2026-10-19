@@ -1,0 +1,192 @@
+{
+ "updated": "2026-10-19T05:01:23.735Z",
+ "stats": {
+  "Search snapshot (made by Claude, Oct 2026)": {
+   "ok": true,
+   "found": 10,
+   "relevant": 4
+  }
+ },
+ "jobs": [
+  {
+   "title": "Customer Support Associate",
+   "company": "Hyre (hiring for a client)",
+   "location": "India (Remote)",
+   "source": "Weekday listing",
+   "postedAt": "",
+   "salaryText": "",
+   "applyUrl": "https://jobs.weekday.works/wkdyxd56q7",
+   "description": "Full-time. Fully remote role based in India. 1-3 years of experience in customer support, customer service, or a similar role. Respond to customer inquiries through email and live chat. Maintain accurate records of customer conversations. Familiarity with customer support or ticketing platforms is a plus.",
+   "id": "https://jobs.weekday.works/wkdyxd56q7",
+   "score": 62,
+   "matchPct": 88,
+   "bucket": "unspecified",
+   "eligibility": "verify",
+   "confidence": "medium",
+   "category": "B_customer_success",
+   "breakdown": {
+    "role": 26,
+    "skills": 5,
+    "comp": 6,
+    "remote": 15,
+    "stability": 10,
+    "freshness": 0
+   },
+   "why": [
+    "Role keyword: customer support",
+    "Role keyword: support associate",
+    "Skill: email"
+   ],
+   "missing": [],
+   "hardFailures": [],
+   "needsVerification": [
+    "Salary unknown or non-INR"
+   ],
+   "salary": {
+    "kind": "unknown",
+    "monthlyInr": null,
+    "evidence": "No salary stated"
+   },
+   "remoteEvidence": "Remote with India explicitly mentioned",
+   "employmentType": "permanent",
+   "firstSeen": "2026-10-19T05:01:23.735Z",
+   "lastSeen": "2026-10-19T05:01:23.735Z",
+   "closed": false
+  },
+  {
+   "title": "Customer Support Associate (Voice & Chat)",
+   "company": "FAIL (D2C apparel brand)",
+   "location": "Remote (India)",
+   "source": "Weekday listing",
+   "postedAt": "",
+   "salaryText": "",
+   "applyUrl": "https://jobs.weekday.works/customer-support-associate-voice-chat-at-fail-wkdy8i0o47",
+   "description": "Full-time, remote (India). Handle inbound and outbound customer interactions by voice and chat. Resolve order, delivery and product queries. Coordinate with internal teams. 0 to 3 years of customer support experience. Comfortable with English and Hindi.",
+   "id": "https://jobs.weekday.works/customer-support-associate-voice-chat-at-fail-wkdy8i0o47",
+   "score": 57,
+   "matchPct": 82,
+   "bucket": "unspecified",
+   "eligibility": "verify",
+   "confidence": "medium",
+   "category": "B_customer_success",
+   "breakdown": {
+    "role": 26,
+    "skills": 0,
+    "comp": 6,
+    "remote": 15,
+    "stability": 10,
+    "freshness": 0
+   },
+   "why": [
+    "Role keyword: customer support",
+    "Role keyword: support associate"
+   ],
+   "missing": [],
+   "hardFailures": [],
+   "needsVerification": [
+    "Salary unknown or non-INR"
+   ],
+   "salary": {
+    "kind": "unknown",
+    "monthlyInr": null,
+    "evidence": "No salary stated"
+   },
+   "remoteEvidence": "Remote with India explicitly mentioned",
+   "employmentType": "permanent",
+   "firstSeen": "2026-10-19T05:01:23.735Z",
+   "lastSeen": "2026-10-19T05:01:23.735Z",
+   "closed": false
+  },
+  {
+   "title": "Customer Support Specialist",
+   "company": "Weekday client (via Workable)",
+   "location": "India (Remote)",
+   "source": "Workable",
+   "postedAt": "2026-06-16",
+   "salaryText": "Rs 400000 - Rs 600000 (ie INR 4 - 6 LPA)",
+   "applyUrl": "https://apply.workable.com/weekday-1/jobs/view/B02D28E239.md",
+   "description": "Full-time, remote, rotational night shift. Respond to customer inquiries via phone, email, chat. Resolve complaints, maintain records of interactions, coordinate with internal teams. Willing to work night shifts and rotational week-offs.",
+   "id": "https://apply.workable.com/weekday-1/jobs/view/B02D28E239.md",
+   "score": 68,
+   "matchPct": 82,
+   "bucket": "inr",
+   "eligibility": "verify",
+   "confidence": "medium",
+   "category": "B_customer_success",
+   "breakdown": {
+    "role": 26,
+    "skills": 5,
+    "comp": 12,
+    "remote": 15,
+    "stability": 10,
+    "freshness": 0
+   },
+   "why": [
+    "Role keyword: customer support",
+    "Role keyword: support specialist",
+    "Skill: email"
+   ],
+   "missing": [],
+   "hardFailures": [],
+   "needsVerification": [
+    "Pay range starts below your minimum; only the top of the range reaches it"
+   ],
+   "salary": {
+    "kind": "gross_or_ctc",
+    "monthlyInr": 50000,
+    "lowMonthlyInr": 33333,
+    "evidence": "4 - 6 lpa (annual CTC/gross; in-hand not derivable)"
+   },
+   "remoteEvidence": "Remote with India explicitly mentioned",
+   "employmentType": "permanent",
+   "firstSeen": "2026-10-19T05:01:23.735Z",
+   "lastSeen": "2026-10-19T05:01:23.735Z",
+   "closed": false
+  },
+  {
+   "title": "Customer Support Specialist",
+   "company": "Remote World",
+   "location": "Remote - India",
+   "source": "Teamtailor",
+   "postedAt": "",
+   "salaryText": "$500-$1,200/month USD",
+   "applyUrl": "https://remoteworld.teamtailor.com/jobs/7598569-customer-support-specialist",
+   "description": "100% remote. Resolve customer issues, identify patterns and feed back to product, contribute to the support knowledge base. 1+ year of customer service experience. Comfortable with support tools such as Zendesk or Freshdesk.",
+   "id": "https://remoteworld.teamtailor.com/jobs/7598569-customer-support-specialist",
+   "score": 57,
+   "matchPct": 82,
+   "bucket": "usd",
+   "eligibility": "verify",
+   "confidence": "medium",
+   "category": "B_customer_success",
+   "breakdown": {
+    "role": 26,
+    "skills": 5,
+    "comp": 6,
+    "remote": 15,
+    "stability": 5,
+    "freshness": 0
+   },
+   "why": [
+    "Role keyword: customer support",
+    "Role keyword: support specialist",
+    "Skill: zendesk"
+   ],
+   "missing": [],
+   "hardFailures": [],
+   "needsVerification": [
+    "Salary unknown or non-INR"
+   ],
+   "salary": {
+    "kind": "foreign_currency",
+    "monthlyInr": null,
+    "evidence": "$500-$1,200/month USD (not converted to INR)"
+   },
+   "remoteEvidence": "Remote with India explicitly mentioned",
+   "employmentType": "unknown",
+   "firstSeen": "2026-10-19T05:01:23.735Z",
+   "lastSeen": "2026-10-19T05:01:23.735Z",
+   "closed": false
+  }
+ ]
+}
